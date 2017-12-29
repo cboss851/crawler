@@ -1,5 +1,7 @@
 import urllib.request
 import urllib.parse
+import _thread
+from time import sleep, ctime
 
 url = 'http://www.baidu.com'
 header = {
