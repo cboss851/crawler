@@ -1,0 +1,15 @@
+POST http://www.sanjiaojihe.com/app/index.php?i=2&c=entry&mid=22703&do=member&m=sz_yi&p=withdraw HTTP/1.1
+Host: www.sanjiaojihe.com
+Connection: keep-alive
+Content-Length: 17
+Accept: application/json, text/javascript, */*; q=0.01
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://www.sanjiaojihe.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.691.400 QQBrowser/9.0.2524.400
+X-Requested-With: XMLHttpRequest
+Referer: http://www.sanjiaojihe.com/app/index.php?i=2&c=entry&p=withdraw&type_supp=s&mid=22703&do=member&m=sz_yi
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8,en-us;q=0.6,en;q=0.5;q=0.4
+Cookie: PHPSESSID=1b6c632e64678d04675fa2a0a7240084; PHPSESSID=1b6c632e64678d04675fa2a0a7240084
+
+op=submit&money=2
